@@ -102,7 +102,7 @@ update("C4:7C:8D:62:47:CB","474","335","342","345")
 print("\n6: Manderijn (citrus reticulata)")
 update("C4:7C:8D:62:47:B7","475","334","343","344")
 
-print("\n7: Ficus (ficus elastica)")
+print("\n7: Rubberboom (ficus elastica)")
 update("C4:7C:8D:62:2F:F5","476","445","450","455")
 
 print("\n8: Dracaena (dracaena marginata)")
@@ -117,7 +117,17 @@ update("C4:7C:8D:62:3B:31","479","448","453","458")
 print("\n11: Lepelplant (spathiphyllum)")
 update("C4:7C:8D:62:3B:B7","480","449","454","459")
 
+print("\n12: Scindapsus (epipremnum aureum)")
+update("C4:7C:8D:62:9B:43","490","495","500","505")
 
+print("\n13: Ananas (ananas comosus)")
+update("C4:7C:8D:62:9B:45","488","493","498","503")
 
+print("\n14: Vijgenboom (ficus alii)")
+update("C4:7C:8D:62:9B:01","491","496","501","506")
 
+print("\n15: Vijgenboom (ficus benjamina)")
+update("C4:7C:8D:62:9A:FF","489","494","499","504")
 
+print("\n16: Vaderplant (tradescantia zebrina)")
+update("C4:7C:8D:62:99:79","487","492","497","502")

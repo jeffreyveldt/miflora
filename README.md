@@ -1,8 +1,12 @@
+# WARNING: XIAOMI HAS DECIDED IS WAS TIME TO UNSUPPORT AND ESSENTIALLY BRICK ALL NON CHINA DEVICES!
+
+# IF YOU BUY ONE ON ALIEXPRESS (OR ANY OTHER ONLINE SHOP) PLEASE MAKE A VIDEO OF YOUR TABLET OR PHONE WITH THE DEVICE SOFTWARE NOT WORKING IN YOUR COUNTRY AND GET YOUR MONEY BACK!
+
 # miflora
 
 _Library for Xiaomi Mi plant sensor_
 
-This library lets you read sensor data from a Xiaomi Mi Flora plant sensor and bridge it to Domoticz.
+This library lets you read sensor data from a Xiaomi Mi Flora plant sensor and bridge it to Domoticz (works without xiaomi software).
 
 It supports reading
 - temperature

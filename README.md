@@ -6,7 +6,7 @@
 
 _Library for Xiaomi Mi plant sensor_
 
-This library lets you read sensor data from a Xiaomi Mi Flora plant sensor and bridge it to Domoticz (works without xiaomi software).
+This library lets you read sensor data from a Xiaomi Mi Flora plant sensor and bridge it to Domoticz (__works without xiaomi software__).
 
 It supports reading
 - temperature

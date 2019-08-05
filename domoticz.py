@@ -22,7 +22,7 @@ domoticzpassword = ""
 # type percentage (moisture)
 # type custom (fertility)
 
-base64string = base64.encodestring(('%s:%s' % (domoticzusername, domoticzpassword)).encode()).decode().replace('\n', '')
+base64string = base64.encodebytes(('%s:%s' % (domoticzusername, domoticzpassword)).encode()).decode().replace('\n', '')
 
 def domoticzrequest (url):
   request = urllib.request.Request(url)
